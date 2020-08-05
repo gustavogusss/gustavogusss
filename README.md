@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on begginer/intermediate Front-End projects. 
 - 🤔 I’m looking for help with Network and my self development
 
-- 📫 How to reach me: 
-      E-mail: gustavo_metzler@hotmail.com
-      LinkedIn: https://www.linkedin.com/in/gustavo-metzler-pontes-a7b7b8152/
+- 📫 How to reach me: <br>
+      &nbsp&nbsp&nbsp&nbsp&nbsp&nbspE-mail: gustavo_metzler@hotmail.com<br>
+      &nbsp&nbsp&nbsp&nbsp&nbsp&nbspLinkedIn: https://www.linkedin.com/in/gustavo-metzler-pontes-a7b7b8152/
 
