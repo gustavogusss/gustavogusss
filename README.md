@@ -1,7 +1,7 @@
 <img width="150px" height="150px" src="https://avatars2.githubusercontent.com/u/46631890?s=460&u=c6f524f64140286d74cfc629297ae0168beaab4f&v=4">
 
 ### Hi there 👋
-Hello, I'm Gustavo, I am about to graduate CS at PUC-PR. My focus is Front-End Web Development.
+Hello, I'm Gustavo, I am about to graduate in CS at PUC-PR. My focus is Front-End Web Development.
 I have advanced HTML Skills, intermediate CSS and beginner level at JS.
 I can make static pages and layouts. I also can crate small and simple aplications using JavaScript.
 
