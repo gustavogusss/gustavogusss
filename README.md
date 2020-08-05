@@ -7,6 +7,6 @@
 - 🤔 I’m looking for help with Network and my self development
 
 - 📫 How to reach me: <br>
-      &nbsp&nbsp&nbsp&nbsp&nbsp&nbspE-mail: gustavo_metzler@hotmail.com<br>
-      &nbsp&nbsp&nbsp&nbsp&nbsp&nbspLinkedIn: https://www.linkedin.com/in/gustavo-metzler-pontes-a7b7b8152/
+      E-mail: gustavo_metzler@hotmail.com<br>
+      LinkedIn: https://www.linkedin.com/in/gustavo-metzler-pontes-a7b7b8152/
 
