@@ -1,4 +1,4 @@
-<img width="auto" src="https://avatars2.githubusercontent.com/u/46631890?s=460&u=c6f524f64140286d74cfc629297ae0168beaab4f&v=4">
+<img width="100px" height="100px" style="border-radius: 50%" src="https://avatars2.githubusercontent.com/u/46631890?s=460&u=c6f524f64140286d74cfc629297ae0168beaab4f&v=4">
 
 ### Hi there 👋
 Hello, I'm Gustavo, I am about to graduate CS at PUC-PR. My focus is Front-End Web Development.
