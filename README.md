@@ -7,7 +7,7 @@ I can make static pages and layouts. I also can crate small and simple aplicatio
 
 
 - 🔭 I’m currently working on my studies and self development
-- 🌱 I’m currently learning VueJS, masterying HTML, CSS (including frameworks as Bootstrap 4 and Materialize) and JS & libs like JQuery.
+- 🌱 I’m currently learning ReactJS, masterying HTML, CSS (including frameworks as Bootstrap 4 and Materialize) and JS & libs like JQuery.
 - 👯 I’m looking to collaborate on begginer/intermediate Front-End projects. 
 - 🤔 I’m looking for help with Network and my self development
 
