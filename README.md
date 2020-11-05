@@ -9,7 +9,7 @@ I can make static pages and layouts. I also can crate small and simple aplicatio
 - 🔭 I’m currently working on my studies and self development
 - 🌱 I’m currently learning ReactJS, masterying HTML, CSS (including frameworks as Bootstrap 4 and Materialize) and JS & libs like JQuery.
 - 👯 I’m looking to collaborate on begginer/intermediate Web projects. 
-- 🤔 I’m looking for help with Network and my self development
+- 🤔 I’m looking for Networking and self development
 
 - 📫 How to reach me: <br>
       E-mail: gustavo_metzler@hotmail.com<br>
