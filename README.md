@@ -1,15 +1,13 @@
 <img width="150px" height="150px" src="https://avatars2.githubusercontent.com/u/46631890?s=460&u=c6f524f64140286d74cfc629297ae0168beaab4f&v=4">
 
 ### Hi there 👋
-Hello, I'm Gustavo, I am about to graduate in CS at PUC-PR. My focus is Web Development.
-I have advanced HTML Skills, intermediate CSS and beginner level at JS.
-I can make static pages and layouts. I also can crate small and simple aplications using JavaScript.
+Hello, I'm Gustavo, I am currently a Trainee Java Developer at Foursys. 
 
 
-- 🔭 I’m currently working on my studies and self development
-- 🌱 I’m currently learning ReactJS, masterying HTML, CSS (including frameworks as Bootstrap 4 and Materialize) and JS & libs like JQuery.
-- 👯 I’m looking to collaborate on begginer/intermediate Web projects. 
-- 🤔 I’m looking for Networking and self development
+- 🔭 I’m currently working on Java projects.
+- 🌱 I’m currently learning Java basics, Hibernate, Java Swing, JSP & JSF, Spring Boot and Angular.
+- 👯 I’m looking to collaborate on begginer/intermediate Java Web projects. 
+- 🤔 I’m looking for Networking and self development and side projects aroud the globe.
 
 - 📫 How to reach me: <br>
       E-mail: gustavo_metzler@hotmail.com<br>
