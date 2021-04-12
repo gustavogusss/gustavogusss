@@ -3,6 +3,10 @@
 ### Hi there 👋
 Hello, I'm Gustavo, I am currently a Trainee Java Developer at Foursys. 
 
+I love life, technology, all different types of art and I also love sports.
+I play basketball since I was 10 years old and I also love to run. 
+I believe in the power of technology to change the world!
+
 
 - 🔭 I’m currently working on Java projects and studying.
 - 🌱 I’m currently learning Java basics, Hibernate, Java Swing, JSP & JSF, Spring Boot and Angular.
