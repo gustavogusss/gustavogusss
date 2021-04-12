@@ -17,7 +17,7 @@ I believe in the power of technology to change the world!<br>
       E-mail: gustavo_metzler@hotmail.com<br>
       LinkedIn: https://www.linkedin.com/in/gustavo-metzler-pontes-a7b7b8152/
 
-
+![Gustavo Metzler Pontes stats](https://github-readme-stats.vercel.app/api?username=gustavogusss&show_icons=true&hide_border=true)
 
 
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
