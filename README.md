@@ -1,4 +1,5 @@
-<img style="border-radius:50%" width="150px" height="150px" src="https://avatars2.githubusercontent.com/u/46631890?s=460&u=c6f524f64140286d74cfc629297ae0168beaab4f&v=4">
+<center><img style="border-radius:50%;" width="150px" height="150px" src="https://avatars2.githubusercontent.com/u/46631890?s=460&u=c6f524f64140286d74cfc629297ae0168beaab4f&v=4">
+</center>
 
 ## Hi there 👋
 Hello, I'm Gustavo, I am currently a Trainee Java Developer at [Foursys](https://www.foursys.com.br/). 
