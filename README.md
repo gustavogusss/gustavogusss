@@ -7,7 +7,7 @@ Hello, I'm Gustavo, I am currently a Trainee Java Developer at Foursys.
 - 🔭 I’m currently working on Java projects.
 - 🌱 I’m currently learning Java basics, Hibernate, Java Swing, JSP & JSF, Spring Boot and Angular.
 - 👯 I’m looking to collaborate on begginer/intermediate Java Web projects. 
-- 🤔 I’m looking for Networking and self development and side projects aroud the globe.
+- 🤔 I’m looking for Networking and self development and side projects around the globe.
 
 - 📫 How to reach me: <br>
       E-mail: gustavo_metzler@hotmail.com<br>
