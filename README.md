@@ -9,10 +9,9 @@ I play basketball since I was 10 years old and I also love to run.<br>
 I believe in the power of technology to change the world!<br>
 
 
-- 🔭 I’m currently working on Java projects and studying.
-- 🌱 I’m currently learning Java basics, Hibernate, Java Swing, JSP & JSF, Spring Boot and Angular.
-- 👯 I’m looking to collaborate on begginer/intermediate Java Web projects. 
-- 🤔 I’m looking for Networking and self development and side projects around the globe.
+- 🔭 I’m currently working on Open Finance Project at [Next](https://next.me/conta-next?gclid=CjwKCAjwz_WGBhA1EiwAUAxIcZR1kbPJuZCgFuaIlNF8jvMPFT1jYx69q9Pqvzdfh8FuCVvsYOPGRhoCEakQAvD_BwE).
+- 🌱 I’m currently learning Spring Boot and Spring Data. 
+
 
 - 📫 How to reach me: <br>
       E-mail: gustavo_metzler@hotmail.com<br>
