@@ -1,5 +1,3 @@
-<center><img width="150px" height="150px" src="https://avatars2.githubusercontent.com/u/46631890?s=460&u=c6f524f64140286d74cfc629297ae0168beaab4f&v=4">
-</center>
 
 ## Hi there 👋
 Hello, I'm Gustavo and I'm currently working as a Trainee Java Developer at [Foursys](https://www.foursys.com.br/). 
