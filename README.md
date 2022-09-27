@@ -1,6 +1,6 @@
 
 ## Hi there 👋
-Hello, I'm Gustavo and I'm currently working as a Trainee Java Developer at [Foursys](https://www.foursys.com.br/). 
+Hello, I'm Gustavo and I'm currently working as a Java Developer at [Foursys](https://www.foursys.com.br/). 
 
 I love life, technology, all different types of art and I also love sports.<br>
 I play basketball since I was 10 years old and I also love to run.<br>
