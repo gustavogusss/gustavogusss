@@ -1,14 +1,10 @@
 
 ## Hi there 👋
-Hello, I'm Gustavo and I'm currently working as a Java Developer at [Foursys](https://www.foursys.com.br/). 
+Hello, I'm Gustavo and I'm currently working as a Java Developer at [Bradesco](https://banco.bradesco/html/classic/index.shtm). 
 
 I love life, technology, all different types of art and I also love sports.<br>
 I play basketball since I was 10 years old and I also love to run.<br>
 I believe in the power of technology to change the world!<br>
-
-
-- 🔭 I’m currently working on Open Finance Project at [Next](https://next.me/conta-next?gclid=CjwKCAjwz_WGBhA1EiwAUAxIcZR1kbPJuZCgFuaIlNF8jvMPFT1jYx69q9Pqvzdfh8FuCVvsYOPGRhoCEakQAvD_BwE).
-- 🌱 I’m currently learning Spring Boot and Spring Data. 
 
 
 - 📫 How to reach me: <br>
