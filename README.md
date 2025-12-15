@@ -42,7 +42,6 @@ I believe in technology as a strategic tool to **solve complex problems, scale b
 #### Security & Observability
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></code>
 
 ---
 
